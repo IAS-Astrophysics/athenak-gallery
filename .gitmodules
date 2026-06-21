@@ -1,0 +1,9 @@
+[submodule "static-neutron-star"]
+	path = static-neutron-star
+	url = git@github.com:ruochengzhai/athenak-tutorial-staticNS.git
+[submodule "gw150914"]
+	path = gw150914
+	url = git@github.com:dradice/athenak-tutorial-gw150914.git
+[submodule "kadath"]
+	path = kadath
+	url = git@github.com:alanlam1002/athenak-tutorial-kadath.git
